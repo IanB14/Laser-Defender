@@ -1,5 +1,7 @@
 # Laser Defender
 
+(Merge with https://github.com/IanB14/Laser-Defender-V1 )
+
 Unity Project - use movement keys to move and spacebar to fire
 
 <img src="https://github.com/IanB14/Laser-Defender/blob/master/screenshot2.PNG">
